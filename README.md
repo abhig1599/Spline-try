@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## Install of spline
+```bash
+npm i @splinetool/react-spline
+# and
+npm i @splinetool/runtime
+```
+
 First, run the development server:
 
 ```bash
@@ -13,6 +20,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
